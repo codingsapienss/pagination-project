@@ -63,6 +63,11 @@
     cursor: pointer;
 }
 
+.pagination span:hover{
+    background-color: #020202;
+    color: white;
+}
+
 .pagination__selected{
     color:rgb(255, 255, 255);
     background-color: #020202;
