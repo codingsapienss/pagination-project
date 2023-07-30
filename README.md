@@ -1,6 +1,6 @@
 # pagination-project
 
-live-demo : https://imprsant-pagination.netlify.app/
+live-demo :  https://react-paginationn.netlify.app/
 
 This is a very basic project of pagination made in react. 
 I have used dummyjson api for fetching fake data with the help of fetch api.
